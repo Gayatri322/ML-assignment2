@@ -1,0 +1,3 @@
+test_set,tree_acc,tree_conf,bag_acc,bag_conf,boost_acc,boost_conf
+clean,0.575,0.9678571428571429,0.8625,0.3905,0.4,0.12268846348904758
+masked,0.175,1.0,0.8375,0.296625,0.375,0.12168123441566689
